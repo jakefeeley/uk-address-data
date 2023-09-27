@@ -4,7 +4,7 @@ This repository contains a CSV file with postal code data, including postcode, e
 
 ## File Description
 
-- **Filename**: `data.csv`
+- **Filename**: `master.csv`
 - **Columns**:
   - `postcode`: The postal code.
   - `eastings`: The eastings coordinate.
